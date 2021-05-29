@@ -13,7 +13,7 @@ angular.module('splatApp').weapons = function($scope) {
         "de_DE": "Kleckser",
         "it_IT": "Armi a ripetizione",
         "nl_NL": "Spetter",
-        "ru_RU": "Armi a ripetizione",
+        "ru_RU": "Краскоматы",
         "zh_HK": "シューター (普通槍)"
       },
       "id": 0,
@@ -110,7 +110,7 @@ angular.module('splatApp').weapons = function($scope) {
             "de_DE": "Disperser 7",
             "it_IT": "Marker multi",
             "nl_NL": "Spettertuit 7",
-            "ru_RU": "Null"
+            "ru_RU": "Плюхотрон-7"
           },
           "class": "Shooter",
           "type": "Sploosh-o-matic",
@@ -5789,7 +5789,7 @@ angular.module('splatApp').weapons = function($scope) {
           "sub": "Splat Bomb",
           "special": "Ink Storm",
           "level": 16,
-          "specialCost": 210,
+          "specialCost": 220,
           "inkSaver": "Middle",
           "inkPerShot": 1.2,
           "speedLevel": "Middle",
