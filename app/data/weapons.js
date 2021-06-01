@@ -13,7 +13,7 @@ angular.module('splatApp').weapons = function($scope) {
         "de_DE": "Kleckser",
         "it_IT": "Armi a ripetizione",
         "nl_NL": "Spetter",
-        "ru_RU": "Armi a ripetizione",
+        "ru_RU": "Краскоматы",
         "zh_HK": "シューター (普通槍)"
       },
       "id": 0,
